@@ -1,2 +1,2 @@
 # BLABLA_mac
-BLABLA files for mac
+BLABLA.exe for mac
